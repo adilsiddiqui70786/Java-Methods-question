@@ -1,4 +1,4 @@
-//4th... to get Using input using Scanner program in java.. 
+//4th... to get Using input using Scanner program in java... 
 import java.util.Scanner;
 public class userinputting 
 {
