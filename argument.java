@@ -1,4 +1,4 @@
-//3rd....FOR COMMAND LINE ARGUMENT IN JAVA..
+//3rd....FOR COMMAND LINE ARGUMENT IN JAVA...
 public class argument 
 {
     public static void main(String[] args) {
